@@ -16,6 +16,7 @@
 | React | React makes creating web pages and web applications much faster and easier. |
 | MySQL | Is an open-source relational database management system (RDBMS). |
 | Bootstrap | Open-source, and powerful front-end framework designed to create mobile-friendly, responsive websites and applications |
+| Tailwind CSS | A utility-first CSS framework packed that can be composed to build any design, directly in your markup. |
 
 </p>
 </details>
